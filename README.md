@@ -1,4 +1,4 @@
-# Covid19Tracker
+# CoviTrack
 ![1](https://github.com/user-attachments/assets/ede3c2db-c5bf-46be-b1b4-3fb7c8defce7)
 ![2](https://github.com/user-attachments/assets/fd9a2373-803f-44e4-9f28-01ada4ca24e7)
 ![3](https://github.com/user-attachments/assets/a96d2e49-81a6-46b2-a9b9-39e3d1731cfe)
